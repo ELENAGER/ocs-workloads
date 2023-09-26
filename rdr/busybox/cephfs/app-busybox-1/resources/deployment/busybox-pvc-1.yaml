@@ -3,7 +3,7 @@ kind: PersistentVolumeClaim
 metadata:
   labels:
     appname: busybox_app1_cephfs
-  name: busybox-pvc-1
+  name: busybox-pvc-elena-1
 spec:
   accessModes:
   - ReadWriteMany
