@@ -11,4 +11,4 @@ spec:
   resources:
     requests:
       storage: 94Gi
-  storageClassName: ramon-storageclass 
+  storageClassName: ramen-storageclass
